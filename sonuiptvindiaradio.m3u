@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Hello FM 106.4
+https://stream.zenolive.com/4g65yz9gg0quv.aac
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Ayyapa Songs Radio
+http://69.197.169.178:28232/;
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Oli FM Singapore
+http://mediacorp.rastream.com/968fm?type=.mp3/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Vanavil FM
+http://s1.vanavilfm.com:9000/
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",8K Radio
+http://16813.live.streamtheworld.com/RADIO_TAMIL_EST_128_SC
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Amutha Gaanam
+http://166.62.116.38:8000/;
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",89.4FM
+http://31.14.40.149:8000/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Tamil HD Radio
+http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Tamil Gilli FM
+http://s2.voscast.com:10616/;stream
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",AIR Tamil
+http://airtamil-lh.akamaihd.net/i/airtamil_1@507817/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil",Raagam
+http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Ragasiyam-1 Vanoli
+http://109.74.196.48:8251/autodj
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Thyagam 48k Vanoli
+http://s3.yesstreaming.net:7019/thayagam48K
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Thyagam 128k Vanoli
+http://s2.yesstreaming.net:7044/thayagam128K
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Thiruvannamalai Vanoli
+http://janus.shoutca.st:8930/svstvm_autodj
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Ragasiyam-2 Vanoli
+http://109.74.196.48:8251/ragasiam_autodj
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Mukil-1
+http://streaming307.radionomy.com:80/MUKILFMRADIO
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Mukil-2
+http://streaming316.radionomy.com:80/MUKILFMRADIO
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", UMACHI-1
+http://streaming307.radionomy.com:80/UMACHIFM
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", UMACHI-2
+http://streaming316.radionomy.com:80/UMACHIFM
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", OM TAMIL FM
+http://14123.live.streamtheworld.com/SAM05AAC150_SC
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SAIVAM FM
+http://50.22.212.204:8194/stream
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SHYAM FM
+mms://st.malargal.com/shyamradio
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", LANKASRI FM
+http://media1.lankasri.fm:8032/
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", AKARAM FM
+http://ourfile.info/akaram.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", AADHAVAN FM
+http://s1.voscast.com:9038/mountpoint3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SAKTHI FM
+http://76.164.217.100:7012/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ATBC FM
+http://s7.viastreaming.net:7920/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", AR RAHMAN LITE
+http://listen.radio.garden/streams/c/chennai/ar-rahman-lite-radio.php?1531930358483
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", HARRIS JAYARAJ
+http://listen.radio.garden/streams/c/chennai/harris-jayaraj-radio.php?1531930645100
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ILAYARAJA LITE
+http://listen.radio.garden/streams/c/chennai/ilayaraja-lite-radio.php?1531930750085
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ILAYARAJA
+http://listen.radio.garden/streams/c/chennai/ilayaraja-radio.php?1531930773943
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ILAYAMAAN
+http://212.83.138.48:8086/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", INBAM FM
+http://listen.radio.garden/streams/c/chennai/inbam-fm-radio.php?1531930832735
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", KJ YESUDAS
+http://listen.radio.garden/streams/c/chennai/kj-yesudas-radio.php?1531930857538
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", PALAIYA PADAL
+http://listen.radio.garden/streams/c/chennai/palaiya-paadal-radio.php?1531930884000
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", PUDHU PADAL
+http://listen.radio.garden/streams/c/chennai/pudhu-paadal-radio.php?1531930900993
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO 88
+http://listen.radio.garden/streams/c/chennai/radio-88.php?1531930924583
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY KADHAL
+http://listen.radio.garden/streams/c/chennai/radio-city-kaadhal.php?1531930945156
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY KAMAL HITS
+http://listen.radio.garden/streams/c/chennai/radio-city-kamal-haasan-hits.php?uid=serverprovidertv_702593555&1531930965848
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY RAJINI HITS
+http://prclive1.listenon.in:9296/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY SPB
+http://listen.radio.garden/streams/c/chennai/radio-city-s-p-balasubrahmanyam-hits.php?uid=serverprovidertv_702593555&1531930986500
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY TAMIL
+http://listen.radio.garden/streams/c/chennai/radio-city-tamil.php?1531931001863
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY TAMIL GOLD
+http://listen.radio.garden/streams/c/chennai/radio-city-tamil-gold.php?1531931020539
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SPB RADIO
+http://listen.radio.garden/streams/c/chennai/spb-radio.php?1531931040135
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", TAMIL BEAT RADIO
+http://listen.radio.garden/streams/c/chennai/tamil-beat-radio.php?1531931056933
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", TAMIL LITE RADIO
+http://listen.radio.garden/streams/c/chennai/tamil-lite-radio.php?1531931077571
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", TAMIL PANBALAI
+http://listen.radio.garden/streams/c/chennai/tamil-panpalai.php?1531931098159
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", THENKATCHI KO SWAMINATHAN
+http://listen.radio.garden/streams/c/chennai/thenkatchi-ko-swaminathan.php?1531931113256
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", VAANMALAR FM
+http://listen.radio.garden/streams/c/chennai/vaanmalarfm.php?1531931133793
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", YUVAN HITS
+http://listen.radio.garden/streams/c/chennai/yuvan-sankar-raja-radio.php?1531931150874
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ANIRUDH HITS
+http://listen.radio.garden/streams/c/chennai/anirudh-radio.php?1531931191466
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", VOICE OF ARUNACHALA
+http://listen.radio.garden/streams/t/tiruvannamalai/voice-of-arunachala.php?1531931306116
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", RADIO CITY DEEPAM
+http://listen.radio.garden/streams/m/madurai/radio-city-deepam.php?1531931346242
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", TAMIL EELAM RADIO
+http://listen.radio.garden/streams/j/jaffna/tamil-eelam-radio.php?1531931505118
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SOORIYAN FM COLOMBO
+http://listen.radio.garden/streams/c/colombo/sooriyanfm.php?1531931598118
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", SLBC TAMIL
+http://listen.radio.garden/streams/c/colombo/slbc-tamil-national-service.php?1531931657117
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", VARNAM FM
+http://listen.radio.garden/streams/c/colombo/varnamfm.php?1531931743986
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", MALAI OSAI
+http://listen.radio.garden/streams/k/kandy/malai-osai.php?1531931869118
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", IBC TAMIL FM
+http://38.96.148.226:6176/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", A9 Radio
+http://195.154.217.103:8175/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", American Tamil FM
+http://69.46.24.226:7188/stream
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Arangam FM
+http://198.178.123.20:8600/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", FM Rainbow
+http://163.172.158.94:8066/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Radio Mirchi
+http://163.172.158.94:8052/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Dance Tamizha
+http://45.43.200.26:27114/stream
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Ezhisai FM
+http://217.182.165.146:8191/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", GTBC FM
+http://38.96.148.18:6150/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Geetham 80s Songs
+http://www.geethamradio.com:8020/80s_hifi.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Geetham New Hits
+http://www.geethamradio.com:8020/new_hifi.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Geetham Old Songs
+http://www.geethamradio.com:8020/old_hifi.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Geetham Request songs
+http://www.geethamradio.com:8020/hifi.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Tamil Media FM
+http://s6.voscast.com:10014/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ILC Tamil FM
+http://s2.voscast.com:9370/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Iyalisai FM
+http://37.187.79.93:9350/stream
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Kanaga Sabapathy
+http://82.145.43.92:8378/;stream.mp3
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Namadhu FM
+http://d3jo7lhb81t2hz.cloudfront.net/onlineradio/live/index.m3u8
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Raaja FM
+http://212.83.138.48:8324/;
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", ThenKatchi Ko Swaminathan FM
+http://212.83.138.48:8305/;
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Tamil Kuil FM
+http://live.tamilkuyilradio.com:8095/;stream/2
+#EXTINF:-1 group-title="Sonu IPTV RADIO | Tamil", Sai FM
+http://s2.voscast.com:9742/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Fox News
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Kumar Sanu Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Alka Yagnik Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Abhijeet Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Lata Mangeshkar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Asha Bhosle Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Bhakti Shemaroo
+https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/playlist.m3u8|
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Musical Matinees Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/musical_matinees/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Night Lounge Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hid Radio
+http://hidradio.live-streams.nl/live
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio BollyFM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Mirchi 98.3
+https://str2b.openstream.co/1311
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Mirchi (peridot)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",92.7 Big FM Mumbai
+http://sc-bb.1.fm:8017/
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mashup 102 Radio
+http://163.172.213.155:8010/stream
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi", Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi", Radio Teen Taal Bollywood
+http://www.radioteentaal.com:8000
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Bollywood Radio and Beyond
+http://96.31.83.86:8084/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Bollywood Radio and Beyond (2)
+http://185.80.220.12:8046/stream
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Namkin
+http://node-02.zeno.fm/gzvb3h65puquv?rj-ttl=5&rj-tok=AAABcdtQ2GcAmsJyA8DzgOw-WQ
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Toota Dil (gaana.com).......Mirchi
+https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Love
+https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Meethi Mirchi 
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",BBC Asian Network (bbci)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_asian_network.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AR Rahman Lite
+http://212.83.138.48:8332/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Delhi Punjab
+https://delhipunjab-lh.akamaihd.net/i/DelhiPunjab_1@4165/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mehfil Mirchi
+https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi 90s
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Mirchi Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",English Love
+https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",International Hits
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Ishq Delhi 104.8
+https://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Ishq Mumbai 104.8
+https://ishq_mumbai-lh.akamaihd.net/i/Ishq_Mumbai_1@855087/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",River of Calm
+https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Nature
+https://streamingv2.shoutcast.com/RadioNature
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Vividh Bharti
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",FM Gold
+https://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Urdu
+http://airurdu-lh.akamaihd.net/i/airurdu_1@507813/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Radio Kashmir
+http://kashmiri-lh.akamaihd.net/i/kashmiri_1@528067/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Agra
+http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Delhi
+http://nondelhi-lh.akamaihd-staging.net/i/rajdelhi_1@830451/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Gold Mumbai
+http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",AIR Rainbow Mumbai
+http://nondelhi-lh.akamaihd.net/i/rainmumb_1@830454/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama -Hot New Bollywood
+http://103.16.47.70:7222/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama-BOllywood Dil Se
+http://103.16.47.70:7333/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama- 90s Once Again
+http://103.16.47.70:7444/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama-Bhakti Sagar
+http://103.16.47.70:7777/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama-Punjabi Hits
+http://103.16.47.70:9888/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama-Bolly Dance Hits
+http://103.16.47.70:9222/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Hungama-Mehfil Row
+http://103.16.47.70:9666/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Non Stop Hindi
+http://s5.voscast.com:8216/;
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Devraag Radio Devotional
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF:-1 group-title="Sonu IPTV  RADIO | Hindi",Bhajan Radio
+http://192.99.35.215:5086/stream
