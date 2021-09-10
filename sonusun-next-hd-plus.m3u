@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT HD PLUS", SUN TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png" group-title="SunNXT HD PLUS", SUN NEWS
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT HD PLUS", KTV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT HD PLUS", SUN MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg" group-title="SunNXT HD PLUS", SUN LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png" group-title="SunNXT HD PLUS", Adithya TV
+https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNXT HD PLUS", GEMINI TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SunNXT HD PLUS", GEMINI MOVIES HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-movies-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SunNXT HD PLUS", GEMINI MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SunNXT HD PLUS", GEMINI COMEDY
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SunNXT HD PLUS", GEMINI LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
