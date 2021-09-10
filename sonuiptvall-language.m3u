@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9x.jhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://watchindia.net/images/channels/marathi/9X_Jhakaas.png" group-title="Sonu IPTV Marathi",9X Jhakaas
+http://watchindia.net:8880/live/33253/72963/926.ts
+#EXTINF:-1 tvg-id="abp.majha.in" tvg-name="ABP Majha" tvg-logo="https://watchindia.net/images/channels/marathi/ABP_Majha.png" group-title="Sonu IPTV Marathi",ABP Majha
+http://watchindia.net:8880/live/33253/72963/925.ts
+#EXTINF:-1 tvg-id="colorsmarathihd.in" tvg-name="Colors HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png" group-title="Sonu IPTV Marathi",Colors HD Marathi
+http://watchindia.net:8880/live/33253/72963/912.ts
+#EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="Colors HD Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png" group-title="Sonu IPTV Kannada",Colors HD Kannada
+http://watchindia.net:8880/live/33253/72963/982.ts
+#EXTINF:-1 tvg-id="colorssuper.in" tvg-name="Colors Super HD" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png" group-title="Sonu IPTV Kannada",Colors Super HD
+http://watchindia.net:8880/live/33253/72963/983.ts
+#EXTINF:-1 tvg-id="dd.sahyadri.in" tvg-name="DD Sahyadri" tvg-logo="https://watchindia.net/images/channels/marathi/DD.png" group-title="Sonu IPTV Marathi",DD Sahyadri
+http://watchindia.net:8880/live/33253/72963/927.ts
+#EXTINF:-1 tvg-id="fakt.marathi.in" tvg-name="Fakt" tvg-logo="https://watchindia.net/images/channels/marathi/Fakt.png" group-title="Sonu IPTV Marathi",Fakt
+http://watchindia.net:8880/live/33253/72963/924.ts
+#EXTINF:-1 tvg-id="maiboli.in" tvg-name="Maiboli" tvg-logo="https://watchindia.net/images/channels/marathi/Maiboli.png" group-title="Sonu IPTV Marathi",Maiboli
+http://watchindia.net:8880/live/33253/72963/923.ts
+#EXTINF:-1 tvg-id="news.18.lokmat.in" tvg-name="News 18 Lokmat" tvg-logo="https://watchindia.net/images/channels/marathi/News_18_Lokmat.png" group-title="Sonu IPTV Marathi",News 18 Lokmat
+http://watchindia.net:8880/live/33253/72963/922.ts
+#EXTINF:-1 tvg-id="9x.jalwa.in" tvg-name="Prajaa TV" tvg-logo="https://watchindia.net/images/channels/kannada/Prajaa_TV.png" group-title="Sonu IPTV Kannada",Prajaa TV
+http://watchindia.net:8880/live/33253/72963/997.ts
+#EXTINF:-1 tvg-id="andhra.jyothy.in" tvg-name="Public TV" tvg-logo="https://watchindia.net/images/channels/kannada/Public_TV.png" group-title="Sonu IPTV Kannada",Public TV
+http://watchindia.net:8880/live/33253/72963/996.ts
+#EXTINF:-1 tvg-id="raj.musix.kannada.in" tvg-name="Raj Musix Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Raj_Musix.png" group-title="Sonu IPTV Kannada",Raj Musix Kannada
+http://watchindia.net:8880/live/33253/72963/993.ts
+#EXTINF:-1 tvg-id="raj.news.kannada.in" tvg-name="Raj News Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Raj_News.png" group-title="Sonu IPTV Kannada",Raj News Kannada
+http://watchindia.net:8880/live/33253/72963/995.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Sangeet" tvg-logo="https://watchindia.net/images/channels/marathi/Sangeet.png" group-title="Sonu IPTV Marathi",Sangeet
+http://watchindia.net:8880/live/33253/72963/920.ts
+#EXTINF:-1 tvg-id="sony.marathi.in" tvg-name="Sony Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Sony.png" group-title="Sonu IPTV Marathi",Sony Marathi
+http://watchindia.net:8880/live/33253/72963/919.ts
+#EXTINF:-1 tvg-id="starpravahhd.in" tvg-name="Star Pravah HD" tvg-logo="https://watchindia.net/images/channels/marathi/Star_Pravah_HD.png" group-title="Sonu IPTV Marathi",Star Pravah HD
+http://watchindia.net:8880/live/33253/72963/918.ts
+#EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="Suvarna HD" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_HD.png" group-title="Sonu IPTV Kannada",Suvarna HD
+http://watchindia.net:8880/live/33253/72963/985.ts
+#EXTINF:-1 tvg-id="suvarnanews24x7.in" tvg-name="Suvarna News" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_News.png" group-title="Sonu IPTV Kannada",Suvarna News
+http://watchindia.net:8880/live/33253/72963/990.ts
+#EXTINF:-1 tvg-id="suvarnaplus.in" tvg-name="Suvarna Plus HD" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_Plus.png" group-title="Sonu IPTV Kannada",Suvarna Plus HD
+http://watchindia.net:8880/live/33253/72963/984.ts
+#EXTINF:-1 tvg-id="tv5.kannada.in" tvg-name="TV5 News" tvg-logo="https://watchindia.net/images/channels/kannada/TV5_News.png" group-title="Sonu IPTV Kannada",TV5 News
+http://watchindia.net:8880/live/33253/72963/987.ts
+#EXTINF:-1 tvg-id="tv9.marathi.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/marathi/TV9.png" group-title="Sonu IPTV Marathi",TV9
+http://watchindia.net:8880/live/33253/72963/917.ts
+#EXTINF:-1 tvg-id="tv9.kannada.in" tvg-name="TV9 News" tvg-logo="https://watchindia.net/images/channels/kannada/TV9_News.png" group-title="Sonu IPTV Kannada",TV9 News
+http://watchindia.net:8880/live/33253/72963/986.ts
+#EXTINF:-1 tvg-id="udayahd.in" tvg-name="Udaya HD" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_HD.png" group-title="Sonu IPTV Kannada",Udaya HD
+http://watchindia.net:8880/live/33253/72963/1002.ts
+#EXTINF:-1 tvg-id="udaya.comedy.in" tvg-name="Udaya Comedy" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Comedy.png" group-title="Sonu IPTV Kannada",Udaya Comedy
+http://watchindia.net:8880/live/33253/72963/988.ts
+#EXTINF:-1 tvg-id="udaya.movies.in" tvg-name="Udaya Movies" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Movies.png" group-title="Sonu IPTV Kannada",Udaya Movies
+http://watchindia.net:8880/live/33253/72963/1004.ts
+#EXTINF:-1 tvg-id="udaya.music.in" tvg-name="Udaya Music" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Music.png" group-title="Sonu IPTV Kannada",Udaya Music
+http://watchindia.net:8880/live/33253/72963/1003.ts
+#EXTINF:-1 tvg-id="zeekannadahd.in" tvg-name="Zee Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Zee_TV.png" group-title="Sonu IPTV Kannada",Zee Kannada
+http://watchindia.net:8880/live/33253/72963/1001.ts
+#EXTINF:-1 tvg-id="zee.24.taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_24_Taas.png" group-title="Sonu IPTV Marathi",Zee 24 Taas
+http://watchindia.net:8880/live/33253/72963/916.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Zee HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_HD.png" group-title="Sonu IPTV Marathi",Zee HD Marathi
+http://watchindia.net:8880/live/33253/72963/913.ts
+#EXTINF:-1 tvg-id="zee.talkies.in" tvg-name="Zee Talkies HD" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Talkies_HD.png" group-title="Sonu IPTV Marathi",Zee Talkies HD
+http://watchindia.net:8880/live/33253/72963/914.ts
+#EXTINF:-1 tvg-id="zee.yuva.in" tvg-name="Zee Yuva" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Yuva.png" group-title="Sonu IPTV Marathi",Zee Yuva
+http://watchindia.net:8880/live/33253/72963/915.ts
+#EXTINF:-1 tvg-id="9x.jalwa.in" tvg-name="Saam" tvg-logo="https://watchindia.net/images/channels/marathi/Saam.png" group-title="Sonu IPTV Marathi",Saam
+http://watchindia.net:8880/live/33253/72963/921.ts
+#EXTINF:-1 tvg-id="colors.gujarati.in" tvg-name="Colors Gujarati" group-title="Sonu IPTV Gujurati",Colors Gujarati
+http://watchindia.net:8880/live/33253/72963/1006.ts
+#EXTINF:-1 tvg-id="tv9.gujarati.in" tvg-name="TV9 Gujarati" group-title="Sonu IPTV Gujurati",TV9 Gujarati
+http://watchindia.net:8880/live/33253/72963/1007.ts
+#EXTINF:-1 tvg-id="zee.24.kalak.in" tvg-name="Zee 24 Kalak" group-title="Sonu IPTV Gujurati",Zee 24 Kalak
+http://watchindia.net:8880/live/33253/72963/1008.ts
+#EXTINF:-1 tvg-id="vtv.gujarati.in" tvg-name="VTV News" group-title="Sonu IPTV Gujurati",VTV News
+http://watchindia.net:8880/live/33253/72963/1009.ts
+#EXTINF:-1 tvg-id="news18.gujarati.in" tvg-name="News18" group-title="Sonu IPTV Gujurati",News18
+http://watchindia.net:8880/live/33253/72963/1010.ts
+#EXTINF:-1 tvg-id="sandesh.news.in" tvg-name="Sandesh News" group-title="Sonu IPTV Gujurati",Sandesh News
+http://watchindia.net:8880/live/33253/72963/1011.ts
+#EXTINF:-1 tvg-id="abp.asmita.in" tvg-name="ABP Asmita HD" group-title="Sonu IPTV Gujurati",ABP Asmita HD
+http://watchindia.net:8880/live/33253/72963/1012.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Lakshya TV HD" group-title="Sonu IPTV Gujurati",Lakshya TV HD
+http://watchindia.net:8880/live/33253/72963/1014.ts
+#EXTINF:-1 tvg-id="dd.girnar.in" tvg-name="DD Girnar" group-title="Sonu IPTV Gujurati",DD Girnar
+http://watchindia.net:8880/live/33253/72963/1918.ts
+#EXTINF:-1 tvg-id="cnbc.bajar.in" tvg-name="CNBC Bajar" group-title="Sonu IPTV Gujurati",CNBC Bajar
+http://watchindia.net:8880/live/33253/72963/1919.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kartavya TV" group-title="Sonu IPTV Gujurati",Kartavya TV
+http://watchindia.net:8880/live/33253/72963/1920.ts
+#EXTINF:-1 tvg-id="1.yes.in" tvg-name="Mitra" group-title="Sonu IPTV Gujurati",Mitra
+http://watchindia.net:8880/live/33253/72963/1921.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="GSTV" group-title="Sonu IPTV Gujurati",GSTV
+http://watchindia.net:8880/live/33253/72963/1922.ts
+#EXTINF:-1 tvg-name="Kathamrut TV" group-title="Sonu IPTV Gujurati",Kathamrut TV
+http://watchindia.net:8880/live/33253/72963/1923.ts
+#EXTINF:-1 tvg-id="tataskyadbutkahaniyan.in" tvg-name="5AAB TV" group-title="Sonu IPTV Punjabi",5AAB TV
+http://watchindia.net:8880/live/33253/72963/2195.ts
+#EXTINF:-1 tvg-name="Zee Alpha" group-title="Sonu IPTV Punjabi",Zee Alpha
+http://watchindia.net:8880/live/33253/72963/2196.ts
+#EXTINF:-1 tvg-id="prime.asia.in" tvg-name="Prime Asia TV" group-title="Sonu IPTV Punjabi",Prime Asia TV
+http://watchindia.net:8880/live/33253/72963/2197.ts
+#EXTINF:-1 tvg-id="mh1.in" tvg-name="MH1" group-title="Sonu IPTV Punjabi",MH1
+http://watchindia.net:8880/live/33253/72963/2198.ts
+#EXTINF:-1 tvg-name="Akaal Channel" group-title="Sonu IPTV Punjabi",Akaal Channel
+http://watchindia.net:8880/live/33253/72963/2199.ts
+#EXTINF:-1 tvg-name="Bollywood Bol Haddipa HD" group-title="Sonu IPTV Punjabi",Bollywood Bol Haddipa HD
+http://watchindia.net:8880/live/33253/72963/796.ts
+#EXTINF:-1 tvg-id="ptc.punjabi.in" tvg-name="PTC IN" group-title="Sonu IPTV Punjabi",PTC IN
+http://watchindia.net:8880/live/33253/72963/1941.ts
+#EXTINF:-1 tvg-id="ptc.news.in" tvg-name="PTC News" group-title="Sonu IPTV Punjabi",PTC News
+http://watchindia.net:8880/live/33253/72963/1943.ts
+#EXTINF:-1 tvg-id="ptc.chakde.in" tvg-name="PTC Chakde" group-title="Sonu IPTV Punjabi",PTC Chakde
+http://watchindia.net:8880/live/33253/72963/1944.ts
+#EXTINF:-1 tvg-id="ptc.music.in" tvg-name="PTC Music" group-title="Sonu IPTV Punjabi",PTC Music
+http://watchindia.net:8880/live/33253/72963/1945.ts
+#EXTINF:-1 tvg-id="ptc.simran.in" tvg-name="PTC Simran" group-title="Sonu IPTV Punjabi",PTC Simran
+http://watchindia.net:8880/live/33253/72963/1946.ts
+#EXTINF:-1 tvg-id="dd.punjabi.in" tvg-name="DD Punjabi" group-title="Sonu IPTV Punjabi",DD Punjabi
+http://watchindia.net:8880/live/33253/72963/1947.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="MH One News" group-title="Sonu IPTV Punjabi",MH One News
+http://watchindia.net:8880/live/33253/72963/1948.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="MH One Music" group-title="Sonu IPTV Punjabi",MH One Music
+http://watchindia.net:8880/live/33253/72963/1949.ts
+#EXTINF:-1 tvg-id="9x.tashan.in" tvg-name="9X Tashan" group-title="Sonu IPTV Punjabi",9X Tashan
+http://watchindia.net:8880/live/33253/72963/1950.ts
+#EXTINF:-1 tvg-id="zee.punjabi.in" tvg-name="Zee Punjabi" group-title="Sonu IPTV Punjabi",Zee Punjabi
+http://watchindia.net:8880/live/33253/72963/1951.ts
+#EXTINF:-1 tvg-id="zee.punjab.haryana.himachal.in" tvg-name="Zee Punjab Haryana Himachal" group-title="Sonu IPTV Punjabi",Zee Punjab Haryana Himachal
+http://watchindia.net:8880/live/33253/72963/1952.ts
+#EXTINF:-1 tvg-id="abp.news.in" tvg-name="ABP Sanjha" group-title="Sonu IPTV Punjabi",ABP Sanjha
+http://watchindia.net:8880/live/33253/72963/1953.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Desi Channel" group-title="Sonu IPTV Punjabi",Desi Channel
+http://watchindia.net:8880/live/33253/72963/1954.ts
+#EXTINF:-1 tvg-id="balle.balle.in" tvg-name="Balle Balle" group-title="Sonu IPTV Punjabi",Balle Balle
+http://watchindia.net:8880/live/33253/72963/1955.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Fateh TV" group-title="Sonu IPTV Punjabi",Fateh TV
+http://watchindia.net:8880/live/33253/72963/1956.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD Hindi 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Sonu IPTV sports",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/33253/72963/1072.ts
+#EXTINF:-1 tvg-id="star.sports.1.hindi.in" tvg-name="Star Sports 1 HD Hindi 2" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD_Hindi.png" group-title="Sonu IPTV sports",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/33253/72963/2167.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sonu IPTV sports",Star Sports 1 HD 1
+http://watchindia.net:8880/live/33253/72963/808.ts
+#EXTINF:-1 tvg-id="star.sports.1.in" tvg-name="Star Sports 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sonu IPTV sports",Star Sports 1 HD 2
+http://watchindia.net:8880/live/33253/72963/2162.ts
+#EXTINF:-1 tvg-id="star.sports.1.in" tvg-name="Star Sports 1 HD 3" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sonu IPTV sports",Star Sports 1 HD 3
+http://watchindia.net:8880/live/33253/72963/2186.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 4" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sonu IPTV sports",Star Sports 1 HD 4
+http://watchindia.net:8880/live/33253/72963/2232.ts
+#EXTINF:-1 tvg-id="star.sports.2.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="Sonu IPTV sports",Star Sports 2 HD 1
+http://watchindia.net:8880/live/33253/72963/1069.ts
+#EXTINF:-1 tvg-id="star.sports.2.in" tvg-name="Star Sports 2 HD 2" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="Sonu IPTV sports",Star Sports 2 HD 2
+http://watchindia.net:8880/live/33253/72963/2163.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="Sonu IPTV sports",Star Sports Select 1 HD
+http://watchindia.net:8880/live/33253/72963/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="Sonu IPTV sports",Star Sports Select 2 HD
+http://watchindia.net:8880/live/33253/72963/1071.ts
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="Sonu IPTV sports",Sky Sports Main Event
+http://watchindia.net:8880/live/33253/72963/2091.ts
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="Sky Sports Cricket 2" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sonu IPTV sports",Sky Sports Cricket 2
+http://watchindia.net:8880/live/33253/72963/2143.ts
+#EXTINF:-1 tvg-id="1tvrus.europe.gb" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="Sonu IPTV sports",Sky Sports Football
+http://watchindia.net:8880/live/33253/72963/2093.ts
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="Sonu IPTV sports",Sky Sports F1
+http://watchindia.net:8880/live/33253/72963/2094.ts
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="Sky Sports Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png" group-title="Sonu IPTV sports",Sky Sports Arena
+http://watchindia.net:8880/live/33253/72963/2095.ts
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="Sonu IPTV sports",Sky Sports Golf
+http://watchindia.net:8880/live/33253/72963/2096.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sonu IPTV sports",Sony Six HD 1
+http://watchindia.net:8880/live/33253/72963/1763.ts
+#EXTINF:-1 tvg-id="sony.six.in" tvg-name="Sony Six HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sonu IPTV sports",Sony Six HD 2
+http://watchindia.net:8880/live/33253/72963/2144.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sonu IPTV sports",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/33253/72963/1756.ts
+#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sonu IPTV sports",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/33253/72963/2215.ts
+#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="Sonu IPTV sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/33253/72963/1757.ts
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="Sonu IPTV sports",Sony Ten 3 HD
+http://watchindia.net:8880/live/33253/72963/1758.ts
+#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://watchindia.net/images/channels/Ten_Sports.png" group-title="Sonu IPTV sports",Ten Sports
+http://watchindia.net:8880/live/33253/72963/1068.ts
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sonu IPTV sports",Willow HD
+http://watchindia.net:8880/live/33253/72963/1067.ts
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sonu IPTV sports",Willow HD 2
+http://watchindia.net:8880/live/33253/72963/2145.ts
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sonu IPTV sports",Sky Sports Premier League
+http://watchindia.net:8880/live/33253/72963/2092.ts
