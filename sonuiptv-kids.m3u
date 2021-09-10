@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sonuiptv Kids", Nick Hindi
+http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sonuiptv Kids", Pogo Hindi
+http://70.39.83.58:8278/pogohindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sonuiptv Kids", Cartoon Network Hindi
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="004" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sonuiptv Kids", Sonic Hindi
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sonuiptv Kids", Sony Yay Hindi
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="006" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sonuiptv Kids", Discovery Kids Hindi
+https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-id="007" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sonuiptv Kids", Nick Junior Hindi
+http://70.39.83.58:8278/nickjrhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci9nNxZ0q978QGWLhdeDhoZhEutYybSHIAw&usqp=CAU" group-title="Sonuiptv Kids", Disney Jr. Hindi
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Sonuiptv Kids", Hungama Hindi
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF:-1 tvg-id="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU" group-title="Sonuiptv Kids", WoW Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sonuiptv Kids", Marvel HQ Hindi
+http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
