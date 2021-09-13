@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9x.jhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://watchindia.net/images/channels/marathi/9X_Jhakaas.png" group-title="Sonu IPTV Marathi",9X Jhakaas
+http://watchindia.net:8880/live/33253/72963/926.ts
+#EXTINF:-1 tvg-id="abp.majha.in" tvg-name="ABP Majha" tvg-logo="https://watchindia.net/images/channels/marathi/ABP_Majha.png" group-title="Sonu IPTV Marathi",ABP Majha
+http://watchindia.net:8880/live/33253/72963/925.ts
+#EXTINF:-1 tvg-id="colorsmarathihd.in" tvg-name="Colors HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png" group-title="Sonu IPTV Marathi",Colors HD Marathi
+http://watchindia.net:8880/live/33253/72963/912.ts
+#EXTINF:-1 tvg-id="dd.sahyadri.in" tvg-name="DD Sahyadri" tvg-logo="https://watchindia.net/images/channels/marathi/DD.png" group-title="Sonu IPTV Marathi",DD Sahyadri
+http://watchindia.net:8880/live/33253/72963/927.ts
+#EXTINF:-1 tvg-id="fakt.marathi.in" tvg-name="Fakt" tvg-logo="https://watchindia.net/images/channels/marathi/Fakt.png" group-title="Sonu IPTV Marathi",Fakt
+http://watchindia.net:8880/live/33253/72963/924.ts
+#EXTINF:-1 tvg-id="maiboli.in" tvg-name="Maiboli" tvg-logo="https://watchindia.net/images/channels/marathi/Maiboli.png" group-title="Sonu IPTV Marathi",Maiboli
+http://watchindia.net:8880/live/33253/72963/923.ts
+#EXTINF:-1 tvg-id="news.18.lokmat.in" tvg-name="News 18 Lokmat" tvg-logo="https://watchindia.net/images/channels/marathi/News_18_Lokmat.png" group-title="Sonu IPTV Marathi",News 18 Lokmat
+http://watchindia.net:8880/live/33253/72963/922.ts
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Sangeet" tvg-logo="https://watchindia.net/images/channels/marathi/Sangeet.png" group-title="Sonu IPTV Marathi",Sangeet
+http://watchindia.net:8880/live/33253/72963/920.ts
+#EXTINF:-1 tvg-id="sony.marathi.in" tvg-name="Sony Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Sony.png" group-title="Sonu IPTV Marathi",Sony Marathi
+http://watchindia.net:8880/live/33253/72963/919.ts
+#EXTINF:-1 tvg-id="starpravahhd.in" tvg-name="Star Pravah HD" tvg-logo="https://watchindia.net/images/channels/marathi/Star_Pravah_HD.png" group-title="Sonu IPTV Marathi",Star Pravah HD
+http://watchindia.net:8880/live/60275/20486/918.m3u8
+#EXTINF:-1 tvg-id="tv9.marathi.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/marathi/TV9.png" group-title="Sonu IPTV Marathi",TV9
+http://watchindia.net:8880/live/33253/72963/917.ts
+#EXTINF:-1 tvg-id="zee.24.taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_24_Taas.png" group-title="Sonu IPTV Marathi",Zee 24 Taas
+http://watchindia.net:8880/live/33253/72963/916.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Zee HD Marathi" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_HD.png" group-title="Sonu IPTV Marathi",Zee HD Marathi
+http://watchindia.net:8880/live/33253/72963/913.ts
+#EXTINF:-1 tvg-id="zee.talkies.in" tvg-name="Zee Talkies HD" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Talkies_HD.png" group-title="Sonu IPTV Marathi",Zee Talkies HD
+http://watchindia.net:8880/live/33253/72963/914.ts
+#EXTINF:-1 tvg-id="zee.yuva.in" tvg-name="Zee Yuva" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Yuva.png" group-title="Sonu IPTV Marathi",Zee Yuva
+http://watchindia.net:8880/live/33253/72963/915.ts
+#EXTINF:-1 tvg-id="9x.jalwa.in" tvg-name="Saam" tvg-logo="https://watchindia.net/images/channels/marathi/Saam.png" group-title="Sonu IPTV Marathi",Saam
+http://watchindia.net:8880/live/33253/72963/921.ts
