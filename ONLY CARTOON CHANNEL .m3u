@@ -1,0 +1,53 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1 tvg-id="03" group-title="Backup" tvg-logo="",Hungama tv
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1 tvg-id="23" group-title="Kids" tvg-logo="",Super Hungama
+http://103.179.246.243:8000/play/a05p
+#EXTINF:-1 tvg-id="22" group-title="Backup " tvg-logo="",Pogo
+http://103.179.246.243:8000/play/a022
+#EXTINF:-1 tvg-id="21" group-title="Kids" tvg-logo="",Nick jr
+http://103.179.246.243:8000/play/a023
+#EXTINF:-1 tvg-id="20" group-title="Kids" tvg-logo="",Khushi tv
+http://103.179.246.243:8000/play/a05g
+#EXTINF:-1 tvg-id="19" group-title="Kids" tvg-logo="",Disney junior
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1 tvg-id="02" group-title="Backup " tvg-logo="",Disney channel
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 tvg-id="01" group-title="Backup " tvg-logo="",Cartoon network
+http://103.179.246.243:8000/play/a01w
+#EXTINF:-1 tvg-id="18" group-title="Kids" tvg-logo="",Chintu tv
+http://103.179.246.243:8000/play/a056
+#EXTINF:-1 tvg-id="17" group-title="Kids" tvg-logo="",Nick hd
+http://103.179.246.243:8000/play/a01c
+#EXTINF:-1 tvg-id="16" group-title="Kids" tvg-logo="",Disney in hindi
+http://www.ridx7.1.mywebsites.link/redx.php?id=48157&e=.m3u8
+#EXTINF:-1 tvg-id="15" group-title="Kids" tvg-logo="",Disney in tamil
+https://ranapkz5.1.mywebsites.link/pkx.php?id=48157&e=.m3u8
+#EXTINF:-1 tvg-id="14" group-title="Kids" tvg-logo="",Disney in telugu
+https://ranapkz5.1.mywebsites.link/pkz.php?id=48157&e=.m3u8
+#EXTINF:-1 tvg-id="13" group-title="Kids" tvg-logo="",Hungama in hindi
+http://www.ridx7.1.mywebsites.link/redx.php?id=48164&e=.m3u8
+#EXTINF:-1 tvg-id="12" group-title="Kids" tvg-logo="",Hungama in tamil
+https://ranapkz5.1.mywebsites.link/pkx.php?id=48164&e=.m3u8
+#EXTINF:-1 tvg-id="11" group-title="Kids" tvg-logo="",Hungama in telugu
+https://ranapkz5.1.mywebsites.link/pkz.php?id=48164&e=.m3u8
+#EXTINF:-1 tvg-id="10" group-title="Kids" tvg-logo="",Pogo in hindi
+http://www.ridx7.1.mywebsites.link/redx.php?id=48172&e=.m3u8
+#EXTINF:-1 tvg-id="09" group-title="Kids" tvg-logo="",Pogo in tamil
+https://ranapkz5.1.mywebsites.link/pkx.php?id=48172&e=.m3u8
+#EXTINF:-1 tvg-id="08" group-title="Kids" tvg-logo="",Pogo in telugu
+https://ranapkz5.1.mywebsites.link/pkz.php?id=48172&e=.m3u8
+#EXTINF:-1 tvg-id="07" group-title="Kids" tvg-logo="",Marvel Hq
+http://www.ridx7.1.mywebsites.link/redx.php?id=54885&e=.m3u8
+#EXTINF:-1 tvg-id="06" group-title="Kids" tvg-logo="",Nick in Hindi
+http://www.ridx7.1.mywebsites.link/redx.php?id=48167&e=.m3u8
+#EXTINF:-1 tvg-id="05" group-title="Kids" tvg-logo="",Nick in tamil
+https://ranapkz5.1.mywebsites.link/pkx.php?id=48167&e=.m3u8
+#EXTINF:-1 tvg-id="04" group-title="Kids" tvg-logo="",Nick in Telugu
+https://ranapkz5.1.mywebsites.link/pkz.php?id=48167&e=.m3u8
+#EXTINF:-1 tvg-id="03" group-title="Kids" tvg-logo="",Cartoon network in hindi
+http://www.ridx7.1.mywebsites.link/redx.php?id=48176&e=.m3u8
+#EXTINF:-1 tvg-id="02" group-title="Kids" tvg-logo="",Cartoon Network in tamil
+https://ranapkz5.1.mywebsites.link/pkx.php?id=48176&e=.m3u8
+#EXTINF:-1 tvg-id="01" group-title="Kids" tvg-logo="",Cartoon network in telugu
+https://ranapkz5.1.mywebsites.link/pkz.php?id=48176&e=.m3u8
