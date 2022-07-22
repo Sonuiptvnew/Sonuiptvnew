@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="DD channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1SnF3UpBvM6NsNyoId2CDU-_yoHMQx1P5w&usqp=CAU" tvg-id="", fancode fullhd
+https://d1zq5no55rw5ua.cloudfront.net/out/v1/20559c31aa284e8c8682b886e933287a/index_1.m3u8
+
+#EXTINF:-1 group-title="DD channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1SnF3UpBvM6NsNyoId2CDU-_yoHMQx1P5w&usqp=CAU" tvg-id="", fancode hd
+https://d1zq5no55rw5ua.cloudfront.net/out/v1/20559c31aa284e8c8682b886e933287a/index_2.m3u8
