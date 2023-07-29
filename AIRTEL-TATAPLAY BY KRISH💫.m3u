@@ -1,0 +1,493 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", JOIN FOR MORE UPDATES @PREMIUMSTORE6 
+https://t.me/premiumstore6
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Dangal
+https://enterr10-live.streamready.in/pub-iodang10p4al/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Dangal-2.jpg/200px-Dangal-2.jpg" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Dangal 2
+https://enterr10-live.streamready.in/pub-iodanga2a26kj2/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="1368" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Colors
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Colors HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Colors Infinity
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_SD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Colors Infinity HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="1327" tvg-logo="noimage.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Comedy Central
+https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_SD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="1364" tvg-logo="noimage.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Comedy Central HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_HD_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Star Bharat
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=star_bharat
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Star Gold
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=star_gold
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Star Plus
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=star_plus
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", &TV HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=and_tv_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2436/logo/240x240/mobile_logo_637826001655891948.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Colors Rishtey
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=colors_rishtey
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Big Boss 24/7 4k
+https://prod-ent-live-gm.jiocinema.com/hls/live/2101886/hd_akamai_iosmob_avc_maincam_biggboss02/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-MarathiBana/5e1ee35fa609d20ba000000a/small_16_9_1683532175.jpg?1683539022" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Shemaroo Marathibana
+https://livectv1.phando.com/8042/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="818" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Shemaroo TV
+https://9dc1.short.gy/Shemaro_tv.mpd
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", SONY AATH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", SONY HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", SONY PAL{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", SONY SAB HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Sony Sab Sd
+https://9dc1.short.gy/sony_sabsd.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-utsav-logo.jpg" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Star Utsav
+http://s1.pubnow.info:8080/aya3/samir112233/426838
+
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", tv HD
+https://9dc1.short.gy/ANdtv.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://shemarooumang.com/assets/images/shemaroo-umang.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Umang
+https://livectv.phando.com/8077/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Bindass_tv_channel.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", UTV Bindas
+https://9dc1.short.gy/bjtech_bindas.m3u8
+
+#EXTINF:-1 tvg-id="523" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Zee Anmol
+https://9dc1.short.gy/Zee_Anmolbjtech.mpd
+
+#EXTINF:-1 tvg-id="63" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="ENTERTAINMENT (PREMIUM IPTV STORE)", Zee TV HD
+https://9dc1.short.gy/Zee_TVbjtechHD.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", ABZY Movies
+https://livectv1.phando.com/8026/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Bflix Movies
+https://livectv.phando.com/8079/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/0db00dca-08d8-4718-922f-433a33b98c4f/1.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Dhinchak
+https://livectv.phando.com/8070/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Goldmines
+https://livectv.phando.com/8073/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Goldmines Movies
+https://livectv.phando.com/8072/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MOVIES (PREMIUM IPTV STORE)", SONY MAX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="MOVIES (PREMIUM IPTV STORE)", SONY MAX2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="MOVIES (PREMIUM IPTV STORE)", SONY MAX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="MOVIES (PREMIUM IPTV STORE)", SONY WAH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold 2
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112132&extension=m3u8&play_token=19lN2YqIw2
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvwish.com/img/channel/1372.webp" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold Romance SD
+http://s1.pubnow.info:8080/aya3/samir112233/426597
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://tvwish.com/img/channel/1372.webp" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold Romance
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=156033&extension=m3u8&play_token=CjajAH1JIr
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Star Utsav Movies
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112131&extension=m3u8&play_token=19lN2YqIw2
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://etimg.etb2bimg.com/photo/73770383.cms" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112132&extension=m3u8&play_token=19lN2YqIw2
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://pitaara.tv/wp-content/uploads/2022/10/pitaarachannel.png" group-title="MOVIES (PREMIUM IPTV STORE)", Pitara
+https://d20hn3ppyrdv2t.cloudfront.net/pitaratv/pitaratv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Wow Cinema
+https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", B4U Plus
+http://kuchini.site:8080/7abb81c7/e9c0e4445d/1367
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/b4umovies.png" group-title="MOVIES (PREMIUM IPTV STORE)", B4U Movies
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEcesQGMXrJDqHRVHUVDX6Dp40VkpsPj4wjp6H5T5qdlvJw7khpqTvure8LvW-jTP31Q0fimt83VLbvVwGCjiQnmjg==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/colorscineplex.png" group-title="MOVIES (PREMIUM IPTV STORE)", Colors Cineplex
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEceAcFGZGjSn2qoxdIJv2EyeRfXlmTkW-4UIRS4Zp8w75pMxFC49iWCG2u5IxGZH67Aqh0dpOQ4Gh4CdiPFOxaHFw==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/colors-cineplex-bollywood.jpg" group-title="MOVIES (PREMIUM IPTV STORE)", Colors Cineplex Bollywood
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEcefQNwDktQWwNCqrg2_TMPidjwPTUM9LDubfMqu_mntQadZrNAr06bi5JS5X6xcgxYixCAxYwkKGuPyJR9c-xPHtk6tBjn9ZIK_hg8T3uyn34=/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/Untitled-39.gif" group-title="MOVIES (PREMIUM IPTV STORE)", Dhinchaak
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEce59DO8IyMiK6mjDPfRaCsIJi_IhJhv_F4cK4x25sXdRT92kXe7RtxajXGXQ1wIY_CySKtpVxrez5LJv0MWbVCGg==/index.m3u8
+
+#EXTINF:-1 tvg-id="https://t.me/premiumstore6" tvg-logo="https://t.me/premiumstore6" group-title="MOVIES (PREMIUM IPTV STORE)", JOIN CHANNEL-@PREMIUMSTORE6 
+https://t.me/premiumstore6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/sonymax2.png" group-title="MOVIES (PREMIUM IPTV STORE)", Sony Max 2
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEce0VPPg0LmWfgQjBhROtAEwLuSJOqkwRS-YFCBvRwq3vFSMHedHcLzCMh7yr-mCh5XwHfJyxteeoi-CJDVEPGo2g==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/sonymaxhd.png" group-title="MOVIES (PREMIUM IPTV STORE)", Sony Max Hd
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEcece2AMpIgkPAghXWmUSLVJvzZihGxT47XNggQzG_huoNh41eMatNtNkO_RMZk4Q8HmnmvdqKHUcsoV3ejtBWliA==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/stargoldhd.png" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold Hd
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEceCS-05m3ONm1Y8nC7hx3NCiooL46u4TaZfv8esNSj_yEjbv5Znm0iBVXuMICxmJn9jpiKExAiPnBbEz-ZWyItAw==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/Star_Gold_2_HD.png" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold Select
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEcePaVGDbOKiDJh94D58_MbtG9NQPcIFq0cvKmAkiqj1SUJfYDCqvsyimdC7_AnT-Tm9odNcpkNZEeNyBBm0ogtKy8xDmgfwbnSAt14x2tnjpE=/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/star-utsav.png" group-title="MOVIES (PREMIUM IPTV STORE)", Star Utsav Movies
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEceSykT8TXJmr7qr-gnzyd8nnkcBNsgJYf1-UqSXzFb32bTICpcQbdvEQkvfoVbisPkt4R51m7pNgbYs1UFor7yGX9end2WJZPaNdnRHoEXZBo=/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/utvaction.png" group-title="MOVIES (PREMIUM IPTV STORE)", Utv Action
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEcen7BASJUaj75PPUf2ieN3v7AHxgSL_AFAN2nArydCIU_bpGKDN-oWoinx_5KDZ2epEbNd5gozjkJaWamNbp8E2g==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/zeecinemahd.png" group-title="MOVIES (PREMIUM IPTV STORE)", Zee Cinema Hd
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEce3Ign_hHKyMR6A9X99qCbR2f-vhPPh2-HaLx9VZmOtmgLnCzJR0gAM_IbBb81_A_KxgUX8nUWJOFRKWUsaTB7Pg==/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://103.209.173.14:9993/channel-logo/gold-thrils.jpg" group-title="MOVIES (PREMIUM IPTV STORE)", Star Gold Thrils
+http://103.209.173.14:9993/gulicraft/gAAAAABkxEceEeQjzV9ezJd0zMgkehDvknThp8lFSFSe9ui_rfMyyir-X4HC9uralfzk_GxEp97beI8DXSBwJP-Jkfc9HzBYOqOSBoNk9vt8XkwDDNE108U=/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MOVIES (PREMIUM IPTV STORE)", Minipex HD
+http://line.tivi-one.net:80/CVGZ7S/2uSjgzr0xz/373023
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/9XTashanLogo.jpg/220px-9XTashanLogo.jpg" group-title="MUSIC (PREMIUM IPTV STORE)", 9X Tashan
+https://livectv.phando.com/8075/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC (PREMIUM IPTV STORE)", 9XM
+https://livectv.phando.com/8067/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="MUSIC (PREMIUM IPTV STORE)", Masti Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/06552d88-1663-4caf-872b-068845acac75/0.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/channel/logos/fjeoiu.png" group-title="MUSIC (PREMIUM IPTV STORE)", Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://www.showboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png" group-title="MUSIC (PREMIUM IPTV STORE)", Show Box Music 
+https://epiconvh.s.llnwi.net/showbox/master_480.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="MUSIC (PREMIUM IPTV STORE)", Zing
+https://9dc1.short.gy/Zing.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="MUSIC (PREMIUM IPTV STORE)", MB Music
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=movie_b_music
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC (PREMIUM IPTV STORE)", Zoom TV
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=zoom_tv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC (PREMIUM IPTV STORE)", B4U Music
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=b4umusic
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="MUSIC (PREMIUM IPTV STORE)", MTV
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=mtv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="MUSIC (PREMIUM IPTV STORE)", MTV Beats HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=mtv_beats_hd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="NEWS (PREMIUM IPTV STORE)", AAJ TAK HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="NEWS (PREMIUM IPTV STORE)", APB NEWS
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="NEWS (PREMIUM IPTV STORE)", Bharat 24 News
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/Logo-newbe.png" group-title="NEWS (PREMIUM IPTV STORE)", Bharat Express
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png" group-title="NEWS (PREMIUM IPTV STORE)", Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar_240p.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="NEWS (PREMIUM IPTV STORE)", CNBC AVAJ
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="NEWS (PREMIUM IPTV STORE)", CNBC ENGLISH
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_131636_eng=131600-video=3154000.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_auto,q_auto/resources/0-9-ddnews/list/ddnews1170bf15f22e9be747cca66b2d7bcfc61c9e.jpg" group-title="NEWS (PREMIUM IPTV STORE)", DD News
+https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/logo.png" group-title="NEWS (PREMIUM IPTV STORE)", GNT News
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="NEWS (PREMIUM IPTV STORE)", HINDI KHABAR
+https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="NEWS (PREMIUM IPTV STORE)", IBC NEWS
+https://livetv.ibc24.in/livestream.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="NEWS (PREMIUM IPTV STORE)", INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="NEWS (PREMIUM IPTV STORE)", INDIA TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="NEWS (PREMIUM IPTV STORE)", Khabre Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.assettype.com/lokshahi/2022-06/631563c1-0a4e-4713-839f-d51dd6a83bb1/WEB_LOGO.png" group-title="NEWS (PREMIUM IPTV STORE)", Lokshahi News
+https://see.lokshahi.live/live/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="NEWS (PREMIUM IPTV STORE)", Navbhart Times
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="NEWS (PREMIUM IPTV STORE)", NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS (PREMIUM IPTV STORE)", NEWS 18  HINDI
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/CNN-News18_logo.png/240px-CNN-News18_logo.png" group-title="NEWS (PREMIUM IPTV STORE)", News 18 English
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" group-title="NEWS (PREMIUM IPTV STORE)", NEWS 18 Tamil
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/News18_Tamil_Nadu_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://pbs.twimg.com/profile_images/1486988618329903107/KfoeGsNa_400x400.jpg" group-title="NEWS (PREMIUM IPTV STORE)", News 18 UP/UK
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_131634_eng=131600-video=3110800.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="NEWS (PREMIUM IPTV STORE)", NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_auto,q_auto/resources/0-9-273/list/newsx11701d1e1ea5c0fa482f85a651304aa52183.jpg" group-title="NEWS (PREMIUM IPTV STORE)", News X
+https://livetv.newsx.com/itv/itvnetwork4/chunklist_w1215582991.m3u8?hdnts=st%3D1688965184%7Eexp%3D1688986784%7Eacl%3D%21*%2Fitv%2Fitvnetwork4%2F*%21%2Fpayload%2Fyupptvott_5_-1_dfe16bab-fee3-a679-b6c1-ef7a135b7805_IN_152.58.32.134_dishtv_1_channel_37_-1%2F*%7Edata%3Dyupptvott_5_-1_dfe16bab-fee3-a679-b6c1-ef7a135b7805_IN_152.58.32.134_dishtv_1_channel_37_-1%7Ehmac%3Da89a86b3feb3ed0dfa570e594f51ff79fd926601c1d213c1d3c9bf0ab61fb831
+
+#EXTINF:-1 tvg-id="91" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png" group-title="NEWS (PREMIUM IPTV STORE)", PTC News
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="122" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-408-j5jr93k8-v1/imageContent-408-j5jr93k8-m1.png" group-title="NEWS (PREMIUM IPTV STORE)", PTC Punjabi
+https://9dc1.short.gy/PTC_Punjabi.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="NEWS (PREMIUM IPTV STORE)", Republic Bharat News
+https://ottrb7.republicworld.com/httppush/ottrb_republic_hindi/chunklist_1.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="NEWS (PREMIUM IPTV STORE)", REPUBLIC ENGLISH
+https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="NEWS (PREMIUM IPTV STORE)", TV 9 BHARATVARSH
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE BIHAR ZHARKHAND
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE HINDUSTAN
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE MADHYA PRADESH NEWS
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE NEES GUJRATI
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE NEWS
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE NEWS HARIYANA
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE NEWS RAJASTHAN
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE NEWS UP/UK
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE PANJAB NEWS
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="796" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png" group-title="NEWS (PREMIUM IPTV STORE)", Zee Punjabi
+https://9dc1.short.gy/Zee_Punjabi_bjtech.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="NEWS (PREMIUM IPTV STORE)", ZEE SALAM
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="KIDS[PREMIUM IPTV STORE]", SONY YAY{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="KIDS[PREMIUM IPTV STORE]", Solo 24×7 Doremon
+http://188.241.219.14:25461/live/46876256086/68742560873/147746.m3u8?token=ShJcU0BbQQNHWwJaVloBWFgGCAlUBVwAUFNQAF1dBAYJVFYBBwUCWlEbGBpEF0dcWF1vWQIXXlAFVVUDU0gRR0JVRm1aV0EDRwsFDg5SDBsVEkRZC1BGWwFOQEcMABEIEwUDAAUKQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoGQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAVcIXRsYGlQMQFdNQkkSXBctLxNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVYOVw8FGko=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="KIDS[PREMIUM IPTV STORE]", HUNGAMA HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112134&extension=m3u8&play_token=19lN2YqIw2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="KIDS[PREMIUM IPTV STORE]", NICK HD
+http://xtv.ooo:8080/live/090909/090909/150482.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="KIDS[PREMIUM IPTV STORE]", NICK JR
+http://xtv.ooo:8080/live/090909/090909/153156.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS[PREMIUM IPTV STORE]", Nick
+http://xtv.ooo:8080/live/090909/090909/76722.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="KIDS[PREMIUM IPTV STORE]", POGO
+http://xtv.ooo:8080/live/090909/090909/150483.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="KIDS[PREMIUM IPTV STORE]", SONIC
+http://xtv.ooo:8080/live/090909/090909/34011.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="KIDS[PREMIUM IPTV STORE]", SUPER HUNGAMA
+http://xtv.ooo:8080/live/090909/090909/150480.ts
+
+#EXTINF:-1 tvg-id="tatasky_114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS[PREMIUM IPTV STORE]", Disney HD
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:24:e1:4a&stream=281356&extension=m3u8
+
+#EXTINF:-1 tvg-id="tatasky_144" tvg-logo="noimage.png" group-title="KIDS[PREMIUM IPTV STORE]", Disney junior
+http://103.115.199.169:8000/play/a09f
+
+#EXTINF:-1 tvg-id="554" tvg-logo="noimage.png" group-title="KIDS[PREMIUM IPTV STORE]", Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="KIDS[PREMIUM IPTV STORE]", Cartoon Network HD+
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=cartoon_network_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="KIDS[PREMIUM IPTV STORE]", Cartoon Network SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=cartoon_network_sd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS[PREMIUM IPTV STORE]", Nick
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=nick
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="KIDS[PREMIUM IPTV STORE]", Nick Junior
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=nick_junior
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="KIDS[PREMIUM IPTV STORE]", Pogo
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=pogo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="KIDS[PREMIUM IPTV STORE]", Sonic
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=sonic
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png" group-title="DEVOTIONAL [PREMIUM IPTV STORE]", Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/2520556satsang.png" group-title="DEVOTIONAL [PREMIUM IPTV STORE]", Satsang HD
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index_10.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_auto,q_auto/resources/0-9-285/list/1170x658withlog1126976137.jpg" group-title="DEVOTIONAL [PREMIUM IPTV STORE]", Ishwar TV
+https://ishawartv.shemaroo.com/ishwartvlive/tv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="DEVOTIONAL [PREMIUM IPTV STORE]", Subh HD
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_13.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Nat Geo Wild HD
+http://humiptv.live:8080/live/wasim/wasim1234/9395.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/fc/20230318135748!Natgeologo.svg/120px-Natgeologo.svg.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", National Geographic HD
+http://humiptv.live:8080/live/wasim/wasim1234/7343.m3u8
+
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", SONY BBC Earth HD
+https://9dc1.short.gy/BBC_Earth.mpd
+
+#EXTINF:-1 tvg-id="525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", SONY BBC EARTH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:-1 tvg-id="566" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="242" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Hindi HD
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="568" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Science Hindi
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+
+#EXTINF:-1 tvg-id="541" tvg-logo="https://te.legra.ph/file/b8670a893a66fa1b5de93.jpg" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Turbo
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+
+#EXTINF:-1 tvg-id="527" tvg-logo="noimage.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", ID Hindi HD
+https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="571" tvg-logo="noimage.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", TLC Hindi HD
+https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Animal Planet HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=animal_planet_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Animal Planet SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=animal_planet_sd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Asia
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_asia
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Investigation HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_india_id_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Investigation SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_india_id_sd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Science
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_science
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_sd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Discovery Turbo
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=discovery_turbo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", FOX Life
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=fox_life
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", History TV
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=history_tv
+
+#EXTINF:-1 tvg-id="https://t.me/premiumstore6" tvg-logo="https://t.me/premiumstore6" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", JOIN CHANNEL-@PREMIUMSTORE6 
+https://t.me/premiumstore6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18840/logo/240x240/mobile_logo_024343001683805110.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", National Geographic
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=nat_geo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", National Geographic WILD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=nat_geo_wild
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Sony BBC Earth HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=sony_bbc_earth_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Sony BBC Earth SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=sony_bbc_earth
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", Tech Storm
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=tech_storm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", TLC HD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=tlc_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="KNOWLEDGE [PREMIUM IPTV STORE]", TLC SD
+https://beastplayer.tk/LiveTv/ToffeeTv/index.m3u8?id=tlc_sd
+
